@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bento-Portfolio/static/css/main.a805490d.css",
+    "main.js": "/Bento-Portfolio/static/js/main.21b5a92d.js",
+    "static/media/my-image.jpeg": "/Bento-Portfolio/static/media/my-image.3551b18fcfac88760d73.jpeg",
+    "index.html": "/Bento-Portfolio/index.html",
+    "main.a805490d.css.map": "/Bento-Portfolio/static/css/main.a805490d.css.map",
+    "main.21b5a92d.js.map": "/Bento-Portfolio/static/js/main.21b5a92d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a805490d.css",
+    "static/js/main.21b5a92d.js"
+  ]
+}
