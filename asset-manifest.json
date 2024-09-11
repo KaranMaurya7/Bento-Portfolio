@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/Bento-Portfolio/static/css/main.bc30c6b9.css",
-    "main.js": "/Bento-Portfolio/static/js/main.9f01177f.js",
+    "main.css": "/Bento-Portfolio/static/css/main.8c5877ce.css",
+    "main.js": "/Bento-Portfolio/static/js/main.39c19d88.js",
     "static/media/my-image.jpeg": "/Bento-Portfolio/static/media/my-image.3551b18fcfac88760d73.jpeg",
     "static/media/ex.jpg": "/Bento-Portfolio/static/media/ex.91e663097343786fc480.jpg",
+    "static/media/whatsapp.png": "/Bento-Portfolio/static/media/whatsapp.c339ff504121f060e736.png",
+    "static/media/mail.png": "/Bento-Portfolio/static/media/mail.a49e015815e3ac6d2bd3.png",
+    "static/media/insta.png": "/Bento-Portfolio/static/media/insta.63cfe81d19b310b35e34.png",
+    "static/media/linkdein.png": "/Bento-Portfolio/static/media/linkdein.1dd143a731afb245bf24.png",
     "index.html": "/Bento-Portfolio/index.html",
-    "main.bc30c6b9.css.map": "/Bento-Portfolio/static/css/main.bc30c6b9.css.map",
-    "main.9f01177f.js.map": "/Bento-Portfolio/static/js/main.9f01177f.js.map"
+    "main.8c5877ce.css.map": "/Bento-Portfolio/static/css/main.8c5877ce.css.map",
+    "main.39c19d88.js.map": "/Bento-Portfolio/static/js/main.39c19d88.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc30c6b9.css",
-    "static/js/main.9f01177f.js"
+    "static/css/main.8c5877ce.css",
+    "static/js/main.39c19d88.js"
   ]
 }
