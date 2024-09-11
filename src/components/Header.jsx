@@ -3,8 +3,6 @@ import { Contact } from "./Contact"
 import { Education } from "./Education"
 import { Experience } from "./Experience"
 import { Projects } from "./Projects"
-import { Transition } from "./Transition"
-
 
 export function Header() {
 
