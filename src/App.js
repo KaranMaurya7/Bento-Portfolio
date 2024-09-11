@@ -3,11 +3,10 @@ import { Header } from "./components/Header";
 export default function App() {
 
 	return (
-		<>
-			<section className="w-full flex flex-col h-screen bg-background">
-				<Header/>
-				
-			</section>
-		</>
+	
+		<div className="lg:p-0 p-2 w-screen lg:w-full flex flex-col h-screen bg-background">
+			<Header/>
+		</div >
+
 	)
 }
