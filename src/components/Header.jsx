@@ -5,12 +5,13 @@ import { Experience } from "./Experience"
 import { Projects } from "./Projects"
 import { Transition } from "./Transition"
 
+
 export function Header() {
 
   return(
 	<>
 		<div className="w-2/3 h-24 rounded-2xl flex flex-row justify-between p-4 items-center bg-fifth m-4 mx-auto">
-			<p className="text-3xl font-cuba">Karan Maurya</p>
+			<p className="text-4xl font-mono font-semibold">Karan Maurya</p>
 		</div>
 
 		<div className="w-2/3 h-5/6 grid grid-cols-3 gap-4 mx-auto grid-rows-5 ">
@@ -37,9 +38,9 @@ export function Header() {
 				</div>
 
 				<div className="row-span-1 bg-fifth rounded-2xl flex justify-around items-center font-medium text-lg p-4">
-					<a href=""> Instagram </a>
-					<a href="">LinkdeIn</a>
-					<a href="">Github</a>
+					<a href="https://www.instagram.com/_bugs__bunny___/" target="_blank">Instagram </a>
+					<a href="https://in.linkedin.com/in/karan-maurya-9b6b29259" target="_blank">LinkdeIn</a>
+					<a href="https://github.com/KaranMaurya7" target="_blank">Github</a>
 				</div>
 			</div>
 
